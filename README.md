@@ -9,6 +9,6 @@
 ## 🚀 Projects
 1. Flutter Boilerplate Application
 2. Flutter Dice Roll Application
-3. Coming Counter Application
+3. Flutter Counter Application
 4. Coming soon...
 5. Coming soon...
