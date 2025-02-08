@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-💙 **Flutter** | Dart | REST APIs | State Management | Firebase  
+💙 **Flutter** | Dart | REST APIs | State Management
 
 ---
 
